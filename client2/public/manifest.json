@@ -1,0 +1,15 @@
+{
+  "short_name": "Scolio App",
+  "name": "Scolio Balans App",
+  "icons": [
+    {
+      "src": "scolio_log.jpg",
+      "type": "image/png",
+      "sizes": "150x150"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
